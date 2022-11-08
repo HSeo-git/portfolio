@@ -123,9 +123,9 @@
         "description": ""
       },
       {
-        "title": "socket",
+        "title": "socket.io",
         "details": [
-          "socket을 이용하여 간단한 채팅 기능을 구현할 수 있습니다.",
+          "socket.io를 이용하여 간단한 채팅 기능을 구현할 수 있습니다.",
           "채팅 외에도 유저간 정보 공유를 구현할 수 있습니다.",
           "(게더타운과 같은 유저간 캐릭터 이동 정보 공유 구현 가능)"],
         "description": ""
