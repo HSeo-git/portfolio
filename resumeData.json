@@ -15,11 +15,24 @@
       "좋은 결과물을 얻기 위해 다양한 사람들과 소통하는 것을 좋아합니다."
     ],
     "email": "sophieseo3@gmail.com",
-    "git_hub": "https://github.com/HSeo-git"
+    "git_hub": "https://github.com/HSeo-git",
+    "blog": "https://welcome-to-my-it-world.tistory.com/"
   },
   "resume": {
     "skillmessage": "Trying to be a Server Developer understanding FE",
     "education": [
+      {
+        "school": "네이버 부스트캠프 멤버십",
+        "degree": "웹풀스텍",
+        "graduated": "2022.08 ~ 2022.12",
+        "description": "기간 : 2022.08 ~ 2022.12"
+      },
+      {
+        "school": "네이버 부스트캠프 챌린지",
+        "degree": "웹풀스텍",
+        "graduated": "2022.07 ~ 2014.08",
+        "description": "기간 : 2022.07 ~ 2014.08"
+      },
       {
         "school": "UNIST(울산과학기술원)",
         "degree": "테크노경영학사",
@@ -97,10 +110,46 @@
       {
         "title": "ReactJS",
         "details": [
-          "ReactRedux의 상태관리 기능을 통해 컴포넌트에 state를 공유할 수 있습니다.",
+          "React Redux와 Recoil을 통해, 중앙상태를 관리를 할 수 있습니다.",
           "ReactRouter.v6를 활용하여, 페이지에 필요한 컴포넌트를 불러올 수 있습니다.",
-          "axios를 통해, HTTP비동기 통신으로 외부 data를 받아올 수 있습니다."],
+          "컴포넌트 단위를 적절히 구분하여 컴포넌트 구조를 설계할 수 있습니다."],
         "description": "Movie Info Website"
+      },
+      {
+        "title": "express",
+        "details": [
+          "express로 서버를 구성할 수 있습니다.",
+          "(nCloud를 이용하여 서버 배포 가능)"],
+        "description": ""
+      },
+      {
+        "title": "socket",
+        "details": [
+          "socket을 이용하여 간단한 채팅 기능을 구현할 수 있습니다.",
+          "채팅 외에도 유저간 정보 공유를 구현할 수 있습니다.",
+          "(게더타운과 같은 유저간 캐릭터 이동 정보 공유 구현 가능)"],
+        "description": ""
+      },
+      {
+        "title": "JavaScript",
+        "details": [
+          "Vanilla JavaScript와 Node.js(express)를 활용해서 동적웹페이지 제작이 가능합니다.",
+          "ejs 활용하여 template rendering이 가능합니다.",
+          "webpack boilerplate를 작성할 수 있습니다.",
+          "axios/fetch를 통해, HTTP비동기 통신을 할 수 있습니다."],
+        "description": "Webpack Boilerplate"
+      },
+      {
+        "title": "TypeScript",
+        "details": [
+          "Interface, Generic 등을 활용할 수 있습니다.",
+          "React, express 등과 함께 활용할 수 있습니다."],
+        "description": ""
+      },
+      {
+        "title": "CSS, SCSS, styled-component, emotion, tailwind",
+        "details": ["기본적인 css뿐 아니라, 다양하게 확장된 css를 활용할 수 있습니다."],
+        "description": ""
       },
       {
         "title": "Spring Boot",
@@ -109,29 +158,13 @@
           "RestController와 Service로 Client 요청 처리 후, Client에 데이터를 넘겨줄 수 있습니다.",
           "RestTemplate를 통해, Rest API를 호출하여 데이터를 가져와 활용할 수 있습니다.",
           "JPA로 DB(H2, MySql)와 JAVA 객체를 연결하여 데이터 처리를 할 수 있습니다.",
-          "간단한 Mustache를 통해 뷰를 구현할 수 있습니다."
-          ],
+          "Mustache를 통해 간단한 뷰를 구현할 수 있습니다."
+        ],
         "description": "Movie Info Backend, (Appendix)간단한 게시판 개발"
-      },
-      {
-        "title": "JavaScript",
-        "details": [
-          "Vanilla JavaScript와 Node.js(express)를 활용해서 동적웹페이지 제작이 가능합니다.",
-          "ejs 활용하여 template rendering이 가능합니다.",
-          "webpack boilerplate를 작성할 수 있습니다."],
-        "description": "Webpack Boilerplate"
       },
       {
         "title": "PYTHON",
         "details": ["코딩테스트 알고리즘 구현이 가능합니다."],
-        "description": ""
-      },
-      {
-        "title": "HTML, SCSS, CSS",
-        "details": [
-          "기본적인 웹페이지 제작이 가능합니다.",
-          "SCSS와 CSS 문법을 사용하여 웹페이지 디자인을 꾸밀 수 있습니다."
-        ],
         "description": ""
       }
     ]
