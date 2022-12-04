@@ -67,7 +67,7 @@
         "title": "SCOPA(현재 진행 중)",
         "goal": "주제 : 나와 꼭 맞는 프로젝트 팀원을 구할 수 있는 웹사이트",
         "period": "기간 : 2022.11.7 ~ ",
-        "role": "역할 : 기획, 디자인, FE 개발",
+        "role": "역할 : 기획, FE 개발",
         "skill": "skills : (언어) TypeScript (FE) React, Recoil, Emotion (BE) Nest.js",
         "description": [
           "사용자는 관심분야, 기술스택 등을 등록하여 프로젝트 참가지원자로 등록 가능",
@@ -79,7 +79,7 @@
         "title": "Movie Info Website",
         "goal": "주제 : 다양한 장르의 영화에 대한 간략한 정보 확인(넷플릭스 클론 코딩)",
         "period": "기간 : 2022.4.18 ~ 2022.5.2 ",
-        "role": "역할 : 기획, 디자인, FE 개발",
+        "role": "역할 : FE 개발",
         "skill": "skills : (언어) JavaScript (FE) React.js",
         "description": [
           "다양한 장르의 영화 및 원하는 영화에 대한 간략한 정보 확인 가능",
